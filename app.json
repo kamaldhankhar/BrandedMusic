@@ -1,5 +1,5 @@
 {
-    "name": "⛦ 𝐀𝐧𝐢𝐦𝐚𝐥 𝐗 𝐌𝐮𝐬𝐢𝐜 ⛦",
+    "name": "⛦ •─╼⃝ 𝐌 𝐢 𝐭 𝐰 𝐚 ꭙ ᴍᴜsɪᴄ ╾─•〘 ɴᴏ ᴀᴅʂ 〙 ⛦",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
     "keywords": [
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "20606467",
+        "value": "20799890",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "bfc5a2df6d56ecfc5d25ad00d9659941",
+        "value": "1063585c006b856dc0c9806bf45fb474",
         "required": true
       },
       "BOT_TOKEN": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "5512860435",
+        "value": "890275081",
         "required": true
       },
       "STRING_SESSION": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
-        "value": "-1002298738857",
+        "value": "-1002340912618",
         "required": true
       }
     },
